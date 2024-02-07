@@ -17,7 +17,7 @@ You can also delete and update an added expenditure.
 
 ### Screenshots
 
-<img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/1ab079d3-cc1e-47a9-9db0-9475f720931b" alt="ss1" width="300" height="200">
+<img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/1ab079d3-cc1e-47a9-9db0-9475f720931b" alt="ss1" width="300" height="700">
 
 ![ss2](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/2c61f391-89c7-458d-8789-1b2887847acf)
 
