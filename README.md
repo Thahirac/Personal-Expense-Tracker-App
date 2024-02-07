@@ -17,26 +17,7 @@ You can also delete and update an added expenditure.
 
 ### Screenshots
 
-<img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/1ab079d3-cc1e-47a9-9db0-9475f720931b" alt="ss1" width="300" height="700">
-
-![ss2](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/2c61f391-89c7-458d-8789-1b2887847acf)
-
-![ss3](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/180b32ab-3474-4974-b1a6-c8817fcb085b)
-
-![ss4](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/cb61c2f3-1bfe-4e43-a655-431e5cfaef75)
-
-![ss5](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/60c03276-8a53-44ae-b7d6-c0406ac8ad55)
-
-![ss6](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/0f9fd2a4-e7ee-46ab-a966-21c7d313d7ee)
-
-![ss7](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/d534411c-9cc1-488c-a8ea-4892b3a73883)
-
-![ss8](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/e6b867cb-a5d0-4591-bd7f-ffd40336c525)
-
-![ss9](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/a3f135bd-7aae-4371-beab-c4884e46a6af)
-
-![ss10](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/ffe8545b-0711-42ea-8bfb-fae74da6fcc7)
-
+<img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/1ab079d3-cc1e-47a9-9db0-9475f720931b" alt="ss1" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/2c61f391-89c7-458d-8789-1b2887847acf" alt="ss2" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/180b32ab-3474-4974-b1a6-c8817fcb085b" alt="ss3" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/cb61c2f3-1bfe-4e43-a655-431e5cfaef75" alt="ss4" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/60c03276-8a53-44ae-b7d6-c0406ac8ad55" alt="ss5" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/0f9fd2a4-e7ee-46ab-a966-21c7d313d7ee" alt="ss6" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/d534411c-9cc1-488c-a8ea-4892b3a73883" alt="ss7" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/e6b867cb-a5d0-4591-bd7f-ffd40336c525" alt="ss8" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/a3f135bd-7aae-4371-beab-c4884e46a6af" alt="ss9" width="300" height="700"> <img src="https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/ffe8545b-0711-42ea-8bfb-fae74da6fcc7" alt="ss10" width="300" height="700">
 
 ### Track your expenses. See Weekly and Total Pie Chart. Made with Flutter.
 
