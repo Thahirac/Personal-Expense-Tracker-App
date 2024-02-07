@@ -15,6 +15,28 @@ You can also delete and update an added expenditure.
 
 • [hive_Flutter](https://pub.dev/packages/hive_flutter) for database operations
 
+### Screenshots
+
+![ss1](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/1ab079d3-cc1e-47a9-9db0-9475f720931b)
+
+![ss2](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/2c61f391-89c7-458d-8789-1b2887847acf)
+
+![ss3](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/180b32ab-3474-4974-b1a6-c8817fcb085b)
+
+![ss4](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/cb61c2f3-1bfe-4e43-a655-431e5cfaef75)
+
+![ss5](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/60c03276-8a53-44ae-b7d6-c0406ac8ad55)
+
+![ss6](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/0f9fd2a4-e7ee-46ab-a966-21c7d313d7ee)
+
+![ss7](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/d534411c-9cc1-488c-a8ea-4892b3a73883)
+
+![ss8](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/e6b867cb-a5d0-4591-bd7f-ffd40336c525)
+
+![ss9](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/a3f135bd-7aae-4371-beab-c4884e46a6af)
+
+![ss10](https://github.com/Thahirac/Personal-Expense-Tracker-App/assets/84863922/ffe8545b-0711-42ea-8bfb-fae74da6fcc7)
+
 
 ### Track your expenses. See Weekly and Total Pie Chart. Made with Flutter.
 
